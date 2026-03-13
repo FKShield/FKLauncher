@@ -95,4 +95,6 @@ Añade tus juegos sueltos y asígnales una portada buscando desde cualquier URL,
 
 <div align="center">
   <i>Developed to keep gaming simple, clean, and unified.</i>
+  <br><br>
+  <p>© 2026 Ismael Pérez (FKShield). All Rights Reserved.</p>
 </div>
