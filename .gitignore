@@ -1,0 +1,8 @@
+# Ignore everything completely
+*
+# But don't ignore these:
+!.gitignore
+!README.md
+!FKLauncher.exe
+!assets/
+!assets/*
