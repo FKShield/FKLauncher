@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🌍 English | <a href="#-español">🇪🇸 Español</a></h3>
+  <h3>🌍 English | <a href="#-fklauncher-español">🇪🇸 Español</a></h3>
 </div>
 
 <br>
@@ -29,12 +29,12 @@ Built with a focus on **speed, aesthetics, and user experience**, it features a 
 
 - 🎮 **Unified Game Library:** View all your installed games across launchers in one unified grid. 
 - 🔗 **Platform Detection:** Native support and badging for `Steam`, `Epic Games`, `Xbox / Game Pass`, `Rockstar`, `Riot Games`, `EA App`, and `Ubisoft`.
-- ➕ **Add Custom Games:** Easily add any standalone `.exe` or custom game to your library. 
-- 🎨 **Deep Customization:** Modify the primary accent color, background hex, sidebar color, and typography colors through a built-in settings panel to match your desktop setup.
-- 🖼️ **Dynamic Covers:** Features high-quality vertical game art and custom URL support.
-- ⚡ **Lightweight & Fast:** Designed to be minimal in resource usage. Includes an option to auto-minimize when a game is launched to free up resources.
+- ➕ **Add Custom Games:** Easily add any standalone `.exe` or custom game to your library via the internal file and cover manager.
+- 🎨 **Deep Customization:** Modify the primary accent color, background hex, sidebar color, text colors, and more through a built-in settings panel.
+- 🖼️ **Dynamic Covers:** Full visual support for dynamic covers and custom URLs.
+- ⚡ **Lightweight & Fast:** Designed to minimize resource usage. Configurable option to auto-minimize when a game is launched to free up resources.
 - 🔍 **Real-Time Search:** Instantly find your games across your huge library with keyboard shortcuts (`Ctrl+F`).
-- 🏃 **Quick Launcher Access:** Direct links to open the original clients natively.
+- 🏃 **Quick Launcher Access:** Direct links in the sidebar to open the original clients natively.
 
 ---
 
@@ -60,36 +60,49 @@ A simple and intuitive UI for adding standalone executables, complete with autom
 
 <br>
 
-# 🚀 FKLauncher (Español)
+<div align="center">
+  <img src="assets/main.png" alt="FKLauncher Interfaz Principal" width="100%">
+  <br><br>
+  <h1>🚀 FKLauncher (Español)</h1>
+  <p><b>Lanzador de Juegos Unificado, Personalizable y Ligero</b></p>
+  <p><i>Organiza y lanza todos tus juegos desde una única aplicación con un hermoso diseño.</i></p>
+</div>
 
-**FKLauncher es tu biblioteca de juegos unificada y personalizable.** 
-Se trata de una aplicación de escritorio diseñada para agrupar todos los juegos de tus distintos clientes (Steam, Epic, Riot, Xbox, etc.) en un solo lugar, con un diseño moderno, rápido y extremadamente limpio.
+---
+
+## 📖 Descripción General
+
+**FKLauncher** es una aplicación de escritorio personalizada diseñada para resolver el problema de tener múltiples clientes de juegos (Steam, Epic Games, Riot, EA, Xbox, etc.) dispersos por tu sistema. Actúa como un centro unificado, detectando automáticamente los juegos de varias plataformas y permitiéndote añadir tus propios ejecutables personalizados de forma fluida.
+
+Construido con un enfoque en la **velocidad, la estética y la experiencia del usuario**, cuenta con un elegante diseño en modo oscuro, obtención de portadas y profundas opciones de personalización.
 
 > 💡 **¿Quieres probarlo?**  
-> **[Descarga el ejecutable (FKLauncher.exe)](./FKLauncher.exe)** y pruébalo en tu equipo Windows.
+> **[Descarga el ejecutable (FKLauncher.exe)](./FKLauncher.exe)** ¡y organiza tu biblioteca al instante!
 
 ---
 
 ## ✨ Características Principales
 
-- 🎮 **Biblioteca Unificada:** Olvídate de abrir y cerrar distintos programas. Inicia todos tus juegos desde una única cuadrícula central.
-- 🔗 **Integración con Plataformas:** Detecta juegos y añade etiquetas de `Steam`, `Epic Games`, `Xbox`, `Rockstar`, `Riot Games`, `EA App` y `Ubisoft`.
-- ➕ **Juegos Personalizados:** Añade cualquier ejecutable (incluidos indies o juegos fuera de plataformas) mediante el gestor interno de rutas y carátulas.
-- 🎨 **Personalización Avanzada:** El modal de configuración te permite cambiar colores de acento, fondo principal, tarjetas, barra lateral y texto introduciendo o escogiendo códigos Hexadecimales.
-- 🖼️ **Carátulas de Alta Calidad:** Soporte visual completo para portadas dinámicas y URLs personalizadas.
-- ⚡ **Optimización:** Puedes configurar el launcher para que se minimice automáticamente al lanzar un juego y no consumir recursos en segundo plano.
-- 🔍 **Búsqueda Rápida:** Filtra tu biblioteca en tiempo real (`Ctrl+F`).
-- 🏃 **Accesos Directos a Clientes:** Botones en la barra lateral izquierda para arrancar directamente los clientes nativos cuando los necesites con "ABRIR LAUNCHER".
+- 🎮 **Biblioteca de Juegos Unificada:** Visualiza todos tus juegos instalados en diferentes lanzadores en una única cuadrícula unificada.
+- 🔗 **Detección de Plataformas:** Soporte nativo e insignias para `Steam`, `Epic Games`, `Xbox / Game Pass`, `Rockstar`, `Riot Games`, `EA App` y `Ubisoft`.
+- ➕ **Añadir Juegos Personalizados:** Añade fácilmente cualquier `.exe` independiente o juego personalizado a tu biblioteca mediante el gestor interno de rutas y carátulas.
+- 🎨 **Personalización Profunda:** Modifica el color de acento principal, el fondo hexadecimal, el color de la barra lateral, los colores del texto y más a través de un panel de configuración integrado.
+- 🖼️ **Portadas Dinámicas:** Soporte visual completo para carátulas dinámicas y URLs personalizadas.
+- ⚡ **Ligero y Rápido:** Diseñado para minimizar el uso de recursos. Opción configurable para minimizarse automáticamente al lanzar un juego, liberando recursos.
+- 🔍 **Búsqueda en Tiempo Real:** Encuentra instantáneamente tus juegos en toda tu biblioteca con atajos de teclado (`Ctrl+F`).
+- 🏃 **Acceso Rápido a Lanzadores:** Enlaces directos en la barra lateral para abrir los clientes originales de forma nativa.
 
-## 📸 Capturas Adicionales
+---
 
-### Configuración (Settings)
-Personaliza la experiencia visual y el comportamiento de optimización del launcher al arrancar los juegos.
-<img src="assets/settings.png" alt="FKLauncher Ajustes" width="80%">
+## 📸 Capturas de Pantalla
 
-### Gestor de Juegos Nativos
-Añade tus juegos sueltos y asígnales una portada buscando desde cualquier URL, para que se integren directamente con el resto de la interfaz.
-<img src="assets/add_game.png" alt="Añadir Juego Externo" width="80%">
+### Configuración y Personalización
+Toma el control del aspecto visual. Ajusta los elementos de la interfaz mediante códigos Hexadecimales precisos y configura el comportamiento del lanzador como el auto-minimizado.
+<img src="assets/settings.png" alt="Ajustes y Configuración" width="80%">
+
+### Añadir Juegos Personalizados
+Una interfaz de usuario sencilla e intuitiva para añadir ejecutables de forma independiente, que incluye búsqueda automática de rutas y descarga opcional de la URL de la portada.
+<img src="assets/add_game.png" alt="Añadir Juego Personalizado" width="80%">
 
 ---
 
